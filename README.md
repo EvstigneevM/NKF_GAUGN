@@ -11,7 +11,6 @@
 - [Задания](Assignments)
 - [Презентации](Slides)
 - [Хендауты](Handouts)
-- [Changelog](changelog.md)
 
 ## Описание курса 
 
