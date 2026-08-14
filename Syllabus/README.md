@@ -28,7 +28,7 @@
 
      Beiser, Frederick «Kant's intellectual development: 1746-1781» // The Cambridge Companion to Kant [Краткое описание кантовского интеллектуального пути к «Критике чистого разума»]
 
-     Gava, Gabriel «Conceptual Analysis and the Analytic Method in Kant’s Prize Essay»; Dunlope, Katherine «Arbitrary combination and the use of signs in mathematics: Kant's 1763 Prize Essay and its Wolffian background» [Современные исследования, посвященные «Исследованию»]
+     Gava, Gabriel «Conceptual Analysis and the Analytic Method in Kant’s Prize Essay»; Dunlop, Katherine «Arbitrary combination and the use of signs in mathematics: Kant's 1763 Prize Essay and its Wolffian background» [Современные исследования, посвященные «Исследованию»]
 
      Круглов, Алексей Николаевич «Фигурное, символическое и созерцающее познание» (в 2 частях) [Продвинутый уровень; теории символического познания от Вольфа до Канта]
 
@@ -95,7 +95,7 @@
 
      Allison, Henry «Kant’s Transcendental Deduction: An Analytical-Historical Commentary» (p. 164‐196) [Подробный комментарий на трансцендентальную дедукцию]
 
-     Васильев, Вадим Валерьевич «Подвалы кантовской метафизики» [Оригинальная интерпретация ТД с акцентом на понятие «объекта»]
+     Хайдеггер, Мартин «Кант и проблема метафизики» [Продвинутый уровень; авторская исторически значимая интерпретация кантовского учения о способностях души, отдающая центральную роль воображению]
 
  
    
@@ -136,7 +136,7 @@
 
     Willaschek, Marcus «Kant on the Sources of Metaphysics: The Dialectic of Pure Reason» [Обсуждение тезиса о неизбежности трансцендентальной иллюзии]
 
-    Americs, Carl «Kant's theory of mind : an analysis of the paralogisms of pure reason» [Подробное обсуждение кантовского учения о паралогизмах чистого разума, которое будет разбираться на паре]
+    Ameriks, Carl «Kant's theory of mind : an analysis of the paralogisms of pure reason» [Подробное обсуждение кантовского учения о паралогизмах чистого разума, которое будет разбираться на паре]
 
 
 8. Практическая философия Канта: категорический императив
@@ -150,6 +150,11 @@
     - Что связывает теоретическое и практическое познание?
     - Как возможна «свободная игра способностей»?
     - Возможен ли созерцающий рассудок и можем ли мы встать на его точку зрения? 
+    
+
+    **Дополнительное чтение**
+
+    Делез, Жиль «Критическая философия Канта: учение о способностях» [Продвинутый уровень; Авторская интерпретация кантовского учения о способностях, концентрирующаяся на вопросе об их отношении и гармонии между ними]
  
 10. Дискуссии о кантовской философии: Рейнгольд, Маймон и поиск первого принципа 
  
