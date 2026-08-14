@@ -10,7 +10,8 @@
       
      - Васильев, Вадим Валерьевич «Философская психология в эпоху просвещения» (24‐73) [лучшее на русском языке описание вольфианской программы, пускай и с акцентом на психологию]
      - Wolff, Christian «Discursus praeliminaris de philosophia in genere» [Программное произведение Вольфа, в котором он презентует свой проект. Существует английский перевод]
-     - Handbuch Christian Wolff [Сборник современных исследовательских статей по всем основным аспектам философии Вольфа]
+     - Anderson, Lanier «The Poverty of Conceptual Truth: Kant's Analytic/Synthetic Distinction and the Limits of Metaphysics» (p. 45‐96) [Вольфовская теория понятий/вывода]
+ 
 
 2. Докритический Кант о методе в метафизике[^2]
     
@@ -27,9 +28,9 @@
 
      Beiser, Frederick «Kant's intellectual development: 1746-1781» // The Cambridge Companion to Kant [Краткое описание кантовского интеллектуального пути к «Критике чистого разума»]
 
-     Gava, Gabriel «Conceptual Analysis and the Analytic Method in Kant’s Prize Essay» 
+     Gava, Gabriel «Conceptual Analysis and the Analytic Method in Kant’s Prize Essay»; Dunlope, Katherine «Arbitrary combination and the use of signs in mathematics: Kant's 1763 Prize Essay and its Wolffian background» [Современные исследования, посвященные «Исследованию»]
 
-     Dunlope, Katherine «Arbitrary combination and the use of signs in mathematics: Kant's 1763 Prize Essay and its Wolffian background»
+     Круглов, Алексей Николаевич «Фигурное, символическое и созерцающее познание» (в 2 частях) [Продвинутый уровень; теории символического познания от Вольфа до Канта]
 
 
 3. Критика чистого разума 1: теория суждения 
@@ -47,7 +48,9 @@
      **Дополнительное чтение:**
     
 
-     Anderson, Lanier «The Poverty of Conceptual Truth: Kant's Analytic/Synthetic Distinction and the Limits of Metaphysics» (p. 135-148) [Различные версии критериев аналитичности]
+     Anderson, Lanier «The Poverty of Conceptual Truth: Kant's Analytic/Synthetic Distinction and the Limits of Metaphysics» (p. 6-21; 135-148) [Различные версии критериев аналитичности]
+
+     Hintikka, Jaakko «An Analysis of Analiticity» [Продвинутый уровень; Влиятельная и спорная интерпретация кантовского учения об аналитичности с использованием современного логического аппарата]
 
    
 4. Критика чистого разума 2: пространство, время и чистые созерцания, трансцендентальный идеализм
@@ -90,7 +93,7 @@
 
      Кант, Иммануил «Критика чистого разума» (A94-130/B126-169) [Трансцендентальная дедукция категорий]
 
-     Allison, Henry «Kant’s Transcendental Deduction: An Analytical-Historical Commentary» (p. 164‐196) [Самый свежий комментарий на трансцендентальную дедукцию]
+     Allison, Henry «Kant’s Transcendental Deduction: An Analytical-Historical Commentary» (p. 164‐196) [Подробный комментарий на трансцендентальную дедукцию]
 
      Васильев, Вадим Валерьевич «Подвалы кантовской метафизики» [Оригинальная интерпретация ТД с акцентом на понятие «объекта»]
 
@@ -110,6 +113,10 @@
 
     Melnick, Arthur «Kant's analogies of experience» [Классическое исследование аналогий]
 
+    Strawson, Peter «The Bounds of Sense» (Permanence and Causality, p. 116-154) [Продвинутый уровень; Спорная и влиятельная интерпретация кантовской теории каузальности]
+    
+    Pollok, Konstantin «‘The understanding prescribes laws to nature’: Spontaneity, Legislation, and Kant’s Transcendental Hylomorphism» [Продвинутое чтение; попытка дать тонкую детальную интерпретацию тезиса о том, что рассудок приписывает природе законы]
+
 
 
     
@@ -127,9 +134,9 @@
 
     Кант, Имануил «Критика чистого разума» (A341-408/B399-435)
 
-    Willaschek, Marcus «Kant on the Sources of Metaphysics: The Dialectic of Pure Reason»
+    Willaschek, Marcus «Kant on the Sources of Metaphysics: The Dialectic of Pure Reason» [Обсуждение тезиса о неизбежности трансцендентальной иллюзии]
 
-    Americs, Carl «Kant's theory of mind : an analysis of the paralogisms of pure reason» 
+    Americs, Carl «Kant's theory of mind : an analysis of the paralogisms of pure reason» [Подробное обсуждение кантовского учения о паралогизмах чистого разума, которое будет разбираться на паре]
 
 
 8. Практическая философия Канта: категорический императив
