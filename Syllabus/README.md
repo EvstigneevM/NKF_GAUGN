@@ -15,6 +15,9 @@
      Anderson, Lanier «The Poverty of Conceptual Truth: Kant's Analytic/Synthetic Distinction and the Limits of Metaphysics» (p. 45‐96) [Вольфовская теория понятий/вывода]
 
      Beck, Lewis White «Early German Philosophy» [Обзор немецкой философии до Канта]
+
+    [Handout](/Handouts/Week_1/Handout_1.md) 
+
  
 
 2. Докритический Кант о методе в метафизике[^2]
