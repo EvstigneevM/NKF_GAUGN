@@ -23,19 +23,19 @@
 ### Таксономия понятий 
 ```mermaid
 graph TD
-    AnimalSubstance["Animal Substance"] --> Plant["Plant"]
-    AnimalSubstance --> Animal["Animal"]
-    Animal --> Quadruped["Quadruped"]
-    Animal --> Bird["Bird"]
-    Animal --> Amphibian["Amphibian"]
-    Animal --> Fish["Fish"]
-    Animal --> Insect["Insect"]
-    Animal --> Worm["Worm"]
-    Quadruped --> Anthropomorph["Anthropomorph"]
-    Quadruped --> Feral["Feral"]
-    Quadruped --> Glies["Glies"]
-    Quadruped --> Jumenta["Jumenta"]
-    Quadruped --> Pecora["Pecora"]
+    SubstantiaAnimalis["Substantia animalis"] --> Planta["Planta"]
+    SubstantiaAnimalis --> Animal["Animal"]
+    Animal --> Quadrupeda["Quadrupeda"]
+    Animal --> Avis["Avis"]
+    Animal --> Amphibia["Amphibia"]
+    Animal --> Piscis["Piscis"]
+    Animal --> Insecta["Insecta"]
+    Animal --> Vermis["Vermis"]
+    Quadrupeda --> Anthropomorpha["Anthropomorpha"]
+    Quadrupeda --> Ferae["Ferae"]
+    Quadrupeda --> Glires["Glires"]
+    Quadrupeda --> Jumenta["Jumenta"]
+    Quadrupeda --> Pecora["Pecora"]
 ```
 
 [Линней, 1735]
@@ -64,7 +64,7 @@ graph TD
 
 ### Аналитические и синтетические суждения 
 
-«Поэтому необходимо признать, что \emph{закон противоречия} есть всеобщий и вполне достаточный *принцип всякого аналитического познания*; но далее этого его значение и пригодность как достаточногокритерия истины не простирается. 
+«Поэтому необходимо признать, что закон противоречия есть всеобщий и вполне достаточный *принцип всякого аналитического познания*; но далее этого его значение и пригодность как достаточногокритерия истины не простирается. 
 Ибо то обстоятельство, что никакое познание не может идти вразрез с ним, не уничтожая себя, делает этот закон, правда, *conditio sive qua non*, но не превращает его в основание для определения истинности нашего познания <...> мы, правда, всегда стараемся не нарушать этого неприкосновенного основоположения, по вопросу об истинности синтетических познаний мы ни в коей мере не можем ожидать от него каких‐либо разъяснений» (A151/B190-191)
 
 «В аналитическом суждении я остаюсь при данном понятии, чтобы что‐либо извлечь из него. 
